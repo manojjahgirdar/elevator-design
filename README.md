@@ -31,10 +31,10 @@ This Java project simulates the movement of elevators in a building with multipl
    git clone https://github.com/manojjahgirdar/elevator-design)https://github.com/manojjahgirdar/elevator-design.git
    ```
 
-2. Goto `ElevatorDesign/src/com/elevator/` and compile the java code:
+2. Goto the root of the repo and compile the java code:
 
     ```bash
-    cd ElevatorDesign/src/com/elevator/
+    cd elevator-design
     ```
 
     ```java
