@@ -6,7 +6,7 @@ This Java project simulates the movement of elevators in a building with multipl
 - [Prerequisites](#prerequisites)
 - [Class diagram](#class-diagram)
 - [Run the Application](#run-the-application)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 
 ### Flow
 
@@ -47,6 +47,6 @@ This Java project simulates the movement of elevators in a building with multipl
     java Main
     ```
 
-### Screenshots
+### Screenshot
 
 ![Screenshot 2023-11-29 at 7 21 15 PM](https://github.com/manojjahgirdar/elevator-design/assets/52746337/79a54d93-bbc5-48dc-a4ca-a8c13b09d5e2)
